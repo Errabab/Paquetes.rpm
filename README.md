@@ -1,6 +1,5 @@
 # Paquetes.rpm
 
-# Introducción.
 
 ## 1.¿Qué son los paquetes rpm?
 
