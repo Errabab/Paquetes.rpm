@@ -22,7 +22,7 @@ Indicar en qué ficheros se guardan los repositorios. [Ver aquí](3.md)
   4. Comprobar que se ha instalado.
   
   5. Desinstalar el paquete.
-[video explicativo](4
+[video explicativo](https://drive.google.com/file/d/1xP7YBOUg5Ts1Y7AkGB-eAbQjkbBVs2Zg/view?usp=drive_link)
 
 #  Webgrafía
   * chat gpt
