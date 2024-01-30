@@ -24,7 +24,7 @@ Indicar en qué ficheros se guardan los repositorios. [Ver aquí](3.md)
   5. Desinstalar el paquete.
 
      
-  [video explicativo](https://drive.google.com/file/d/1xP7YBOUg5Ts1Y7AkGB-eAbQjkbBVs2Zg/view?usp=drive_link)
+  [video explicativo](4.md)
 
 #  Webgrafía
   * chat gpt
