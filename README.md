@@ -1,18 +1,18 @@
 # Paquetes.rpm
 
-#Introducción.
+# Introducción.
 
 ## 1.¿Qué son los paquetes rpm?
 
-#Distribución Rocky Linux
+# Distribución Rocky Linux
 
-##Característica de esta distribución.
+## Característica de esta distribución.
 
-#Repositorios
+# Repositorios
 
-##Indicar en qué ficheros se guardan los repositorios.
+## Indicar en qué ficheros se guardan los repositorios.
 
-#Caso práctico.
+# Caso práctico.
   
   1. Actualizar el sistema
   
