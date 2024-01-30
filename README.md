@@ -2,14 +2,14 @@
 ![portada](img/portada.jpeg)
 
 # ¿Qué son los paquetes rpm?
-los paquetes rpm son:[pincha aquí](1.md)
+los paquetes rpm son: [Ver aquí](1.md)
 # Distribución Rocky Linux
 
-[Característica de esta distribución](2.md)
+Característica de esta distribución [Ver aquí](2.md)
 
 # Repositorios
 
-[Indicar en qué ficheros se guardan los repositorios.](3.md)
+Indicar en qué ficheros se guardan los repositorios. [Ver aquí](3.md)
 
 # Caso práctico
   
