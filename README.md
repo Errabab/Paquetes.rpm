@@ -2,7 +2,7 @@
 ![portada](img/portada.jpeg)
 
 # ¿Qué son los paquetes rpm?
-los paquetes rpm son[:](1.md)
+los paquetes rpm son:[pincha aquí](1.md)
 # Distribución Rocky Linux
 
 [Característica de esta distribución](2.md)
