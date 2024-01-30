@@ -1,4 +1,4 @@
-# Paquetes.rpm
+## Paquetes.rpm
 
 
 # 1.¿Qué son los paquetes rpm?
