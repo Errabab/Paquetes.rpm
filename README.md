@@ -5,6 +5,8 @@
 
 # Distribución Rocky Linux
 
+*Característica de esta distribución*
+
 # Característica de esta distribución.
 
 *Repositorios*
