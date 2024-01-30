@@ -7,13 +7,11 @@
 
 *Característica de esta distribución*
 
-# Característica de esta distribución.
+# Repositorios
 
-*Repositorios*
+**Indicar en qué ficheros se guardan los repositorios.**
 
-# Indicar en qué ficheros se guardan los repositorios.
-
-*Caso práctico*
+# Caso práctico
   
   1. Actualizar el sistema
   
