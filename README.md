@@ -1,9 +1,9 @@
 ## Paquetes.rpm
 
 
-# 1.¿Qué son los paquetes rpm?
+# ¿Qué son los paquetes rpm?
 
-*Distribución Rocky Linux*
+# Distribución Rocky Linux
 
 # Característica de esta distribución.
 
