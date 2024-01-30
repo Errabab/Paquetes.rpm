@@ -1,15 +1,15 @@
 ## Paquetes.rpm
-
+![portada](img/portada.jpeg)
 
 # ¿Qué son los paquetes rpm?
-
+[los paquetes rpm](1.md)
 # Distribución Rocky Linux
 
-*Característica de esta distribución*
+[Característica de esta distribución](2.md)
 
 # Repositorios
 
-*Indicar en qué ficheros se guardan los repositorios.*
+[Indicar en qué ficheros se guardan los repositorios.](3.md)
 
 # Caso práctico
   
